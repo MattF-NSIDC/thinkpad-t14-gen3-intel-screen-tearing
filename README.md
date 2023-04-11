@@ -1,9 +1,10 @@
 # Screen tearing Lenovo Thinkpad T14 Gen3 (Intel)
 
 Got a new Thinkpad T14 Gen3 (Intel) and was experiencing screen tearing on both my
-internal and external displays even when using `picom`. Tweaking picom settings didn't
-get me anywhere, but I didn't document what I tried. I started documenting after
-changing focus from picom.
+internal and external displays when using `i3` window manager as part of the Regolith
+DE. This occurred even when using `picom`. Tweaking picom settings didn't get me
+anywhere, but I didn't document what I tried. I started documenting after changing focus
+from picom.
 
 
 ## Firefox
