@@ -17,7 +17,8 @@ acceleration when available".
 
 ## TearFree
 
-**Fixes screen tearing in Firefox.**
+**Fixes screen tearing, but causes `Xorg` process to constantly use 30-40%
+CPU.**
 
 Create `/usr/share/X11/xorg.conf.d/20-intel-gpu.conf` with:
 
